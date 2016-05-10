@@ -1,6 +1,6 @@
 # Octocopter Obstacle Avoidance System
 
-Senior Design Project - Rutgers University
+Senior Design Project - Package Delivery Drone - Rutgers University
 
 <p align="center">
   <img src = "https://github.com/pv9/Octocopter-Obstacle-Avoidance-System/blob/master/STORK.jpg" />
