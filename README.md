@@ -2,8 +2,13 @@
 
 Senior Design Project - Rutgers University
 
-->![alt tag](https://github.com/pv9/Octocopter-Obstacle-Avoidance-System/blob/master/STORK.jpg)<-
-->![alt tag](https://github.com/pv9/Octocopter-Obstacle-Avoidance-System/blob/master/Drone.jpg)<-
+<p align="center">
+  <img src = "https://github.com/pv9/Octocopter-Obstacle-Avoidance-System/blob/master/STORK.jpg" />
+</p>
+
+<p align="center">
+  <img src = "https://github.com/pv9/Octocopter-Obstacle-Avoidance-System/blob/master/Drone.jpg" />
+</p>
 
 Hardware used
 - Arduino Uno
