@@ -1,4 +1,8 @@
-# Octocopter-Obstacle-Avoidance-System
+# Octocopter Obstacle Avoidance System
+
+Senior Design Project - Rutgers University
+
+![alt tag](https://github.com/pv9/Octocopter-Obstacle-Avoidance-System/blob/master/STORK_Logo.jpg)
 
 Hardware used
 - Arduino Uno
